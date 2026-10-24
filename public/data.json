@@ -1,0 +1,415 @@
+[
+    {
+        "playerName": "Virat Kohli",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/3993.png",
+        "origin": "India",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-hand bat",
+        "price": 1500
+    },
+    {
+        "playerName": "Rohit Sharma",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/3852.png",
+        "origin": "India",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1450
+    },
+    {
+        "playerName": "Shubman Gill",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/66818.png",
+        "origin": "India",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1350
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jasprit%20Bumrah.jpg",
+        "origin": "India",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 1500
+    },
+    {
+        "playerName": "Hardik Pandya",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/63751.png",
+        "origin": "India",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm medium-fast",
+        "battingStyle": "Right-hand bat",
+        "price": 1300
+    },
+
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/3782.png",
+        "origin": "Bangladesh",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "battingStyle": "Left-hand bat",
+        "price": 1100
+    },
+    {
+        "playerName": "Litton Das",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/63206.png",
+        "origin": "Bangladesh",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 950
+    },
+    {
+        "playerName": "Mustafizur Rahman",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/63881.png",
+        "origin": "Bangladesh",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast-medium",
+        "battingStyle": "Left-hand bat",
+        "price": 900
+    },
+    {
+        "playerName": "Taskin Ahmed",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/58314.png",
+        "origin": "Bangladesh",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Left-hand bat",
+        "price": 850
+    },
+    {
+        "playerName": "Mehidy Hasan Miraz",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/63875.png",
+        "origin": "Bangladesh",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 850
+    },
+
+    {
+        "playerName": "Babar Azam",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/59429.png",
+        "origin": "Pakistan",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1450
+    },
+    {
+        "playerName": "Shaheen Afridi",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/66833.png",
+        "origin": "Pakistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast",
+        "battingStyle": "Left-hand bat",
+        "price": 1250
+    },
+    {
+        "playerName": "Mohammad Rizwan",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/20286.png",
+        "origin": "Pakistan",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-hand bat",
+        "price": 1200
+    },
+    {
+        "playerName": "Shadab Khan",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/65739.png",
+        "origin": "Pakistan",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm leg break",
+        "battingStyle": "Right-hand bat",
+        "price": 1000
+    },
+    {
+        "playerName": "Haris Rauf",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/70326.png",
+        "origin": "Pakistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 900
+    },
+
+    {
+        "playerName": "Steve Smith",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/4308.png",
+        "origin": "Australia",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm leg break",
+        "battingStyle": "Right-hand bat",
+        "price": 1200
+    },
+    {
+        "playerName": "Pat Cummins",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/56964.png",
+        "origin": "Australia",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 1350
+    },
+    {
+        "playerName": "Mitchell Starc",
+        "playerImg": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20251224%20Mitchell%20Starc.jpg",
+        "origin": "Australia",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast",
+        "battingStyle": "Left-hand bat",
+        "price": 1300
+    },
+    {
+        "playerName": "Glenn Maxwell",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/10085.png",
+        "origin": "Australia",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1100
+    },
+    {
+        "playerName": "Josh Hazlewood",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/4255.png",
+        "origin": "Australia",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast-medium",
+        "battingStyle": "Right-hand bat",
+        "price": 1150
+    },
+
+    {
+        "playerName": "Joe Root",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/10129.png",
+        "origin": "England",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1200
+    },
+    {
+        "playerName": "Jos Buttler",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/9782.png",
+        "origin": "England",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-hand bat",
+        "price": 1250
+    },
+    {
+        "playerName": "Ben Stokes",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/10130.png",
+        "origin": "England",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm fast-medium",
+        "battingStyle": "Left-hand bat",
+        "price": 1300
+    },
+    {
+        "playerName": "Jofra Archer",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/64254.png",
+        "origin": "England",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 1200
+    },
+    {
+        "playerName": "Liam Livingstone",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/63940.png",
+        "origin": "England",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm leg break",
+        "battingStyle": "Right-hand bat",
+        "price": 1050
+    },
+
+    {
+        "playerName": "Kane Williamson",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/4330.png",
+        "origin": "New Zealand",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1150
+    },
+    {
+        "playerName": "Trent Boult",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/4338.png",
+        "origin": "New Zealand",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast-medium",
+        "battingStyle": "Left-hand bat",
+        "price": 1150
+    },
+    {
+        "playerName": "Devon Conway",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/13177.png",
+        "origin": "New Zealand",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Left-hand bat",
+        "price": 950
+    },
+    {
+        "playerName": "Mitchell Santner",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/57903.png",
+        "origin": "New Zealand",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "battingStyle": "Left-hand bat",
+        "price": 900
+    },
+    {
+        "playerName": "Rachin Ravindra",
+        "playerImg": "https://img.ipl.com/upload/20260209/64ff01386c4345011d73e98a518a606c.jpg",
+        "origin": "New Zealand",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "battingStyle": "Left-hand bat",
+        "price": 950
+    },
+
+    {
+        "playerName": "Quinton de Kock",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/28035.png",
+        "origin": "South Africa",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Left-hand bat",
+        "price": 1100
+    },
+    {
+        "playerName": "Kagiso Rabada",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/63611.png",
+        "origin": "South Africa",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Left-hand bat",
+        "price": 1200
+    },
+    {
+        "playerName": "Aiden Markram",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/64219.png",
+        "origin": "South Africa",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1050
+    },
+    {
+        "playerName": "David Miller",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/5313.png",
+        "origin": "South Africa",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Left-hand bat",
+        "price": 1000
+    },
+    {
+        "playerName": "Heinrich Klaasen",
+        "playerImg": "https://cdn.shopify.com/s/files/1/0278/4565/6649/files/IMG_1832.webp?v=1735726615",
+        "origin": "South Africa",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 1100
+    },
+
+    {
+        "playerName": "Rashid Khan",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/65748.png",
+        "origin": "Afghanistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm leg break",
+        "battingStyle": "Right-hand bat",
+        "price": 1300
+    },
+    {
+        "playerName": "Mohammad Nabi",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/7797.png",
+        "origin": "Afghanistan",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Right-hand bat",
+        "price": 850
+    },
+    {
+        "playerName": "Rahmanullah Gurbaz",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/68027.png",
+        "origin": "Afghanistan",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-hand bat",
+        "price": 900
+    },
+    {
+        "playerName": "Fazalhaq Farooqi",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/67927.png",
+        "origin": "Afghanistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast-medium",
+        "battingStyle": "Left-hand bat",
+        "price": 750
+    },
+    {
+        "playerName": "Azmatullah Omarzai",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/67516.png",
+        "origin": "Afghanistan",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm fast-medium",
+        "battingStyle": "Right-hand bat",
+        "price": 900
+    },
+
+    {
+        "playerName": "Kusal Perera",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/11757.png",
+        "origin": "Sri Lanka",
+        "playerType": "Wicketkeeper Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Left-hand bat",
+        "price": 850
+    },
+    {
+        "playerName": "Pathum Nissanka",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/66368.png",
+        "origin": "Sri Lanka",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-hand bat",
+        "price": 850
+    },
+    {
+        "playerName": "Wanindu Hasaranga",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/65027.png",
+        "origin": "Sri Lanka",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm leg break",
+        "battingStyle": "Right-hand bat",
+        "price": 950
+    },
+    {
+        "playerName": "Matheesha Pathirana",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/73830.png",
+        "origin": "Sri Lanka",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-hand bat",
+        "price": 900
+    },
+    {
+        "playerName": "Charith Asalanka",
+        "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/65038.png",
+        "origin": "Sri Lanka",
+        "playerType": "Batter",
+        "bowlingStyle": "Right-arm off break",
+        "battingStyle": "Left-hand bat",
+        "price": 800
+    }
+]
